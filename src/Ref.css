@@ -1,0 +1,60 @@
+.ref__head {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;
+    margin-top: 179px;
+    margin-bottom: 13px;
+}
+
+.ref__title {
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 44px;
+    text-align: center;
+    color: #333333;
+    margin-bottom: 79px;
+}
+
+.ref__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 209px;
+}
+
+.ref__box {
+    display: flex;
+    align-items: center;
+    gap: 77px;
+}
+
+.ref__more {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    color: #0C2520;
+    margin-bottom: 25px;
+}
+
+.ref__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #0C2520;
+    max-width: 222px;
+    margin-bottom: 38px;
+}
+
+.ref__link {
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #164038;
+    margin-bottom: 158px;
+}

@@ -1,0 +1,144 @@
+.site-footer {
+    background-image: url('../img/footer.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 1310px;
+}
+
+.talent__title {
+    padding-top: 120px;
+    margin-bottom: 18px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 69px;
+    text-align: center;
+    color: #ffffff;
+    max-width: 750px;
+}
+
+.talent__span {
+    font-weight: 400;
+    font-size: 61px;
+    line-height: 69px;
+    color: #E1FFA0;
+}
+
+.talent__text {
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 53px;
+}
+
+.talent__links {
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 226px;
+}
+
+.footer__all {
+    display: flex;
+}
+
+.solutions__all {
+    margin-right: 36px;
+}
+
+.solutions__title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #ffffff;
+    margin-bottom: 61px;
+}
+
+.solutions {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.platform__all {
+    margin-right: 135px;
+}
+
+.platform__title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #ffffff;
+    margin-bottom: 61px;
+}
+
+.platform {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.resources__all {
+    margin-right: 184px;
+}
+
+.resources__title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #ffffff;
+    margin-bottom: 61px;
+}
+
+.resources {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.more__title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #ffffff;
+    margin-bottom: 61px;
+}
+
+.more {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.footer__alnav {
+    margin-top: 63px;
+}
+
+.alnav {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.alnav__items-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #ffffff;
+}
